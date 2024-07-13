@@ -1,0 +1,12 @@
+
+.container{
+    margin: auto;
+    margin-top: 100px;
+    padding-bottom: 30px;
+}
+.header{
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 30px;
+}
